@@ -1,5 +1,4 @@
 # hello-word
-test1
 
 Hi, buddies!
 Cheryl here! 
